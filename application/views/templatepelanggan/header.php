@@ -24,11 +24,8 @@
 								<?php 
 								if($this->session->userdata('email')==null){
 									?>
-<<<<<<< HEAD
+
 									<a href="<?php echo base_url ('pelanggan/login') ?>"><i class="flaticon-profile" style="margin: 0px 10px 0px; padding-left: 30px"></i>Masuk</a>
-=======
-									<a href="<?php echo base_url ('pelanggan/login') ?>" data-toggle="modal"><i class="flaticon-profile" style="margin: 0px 10px 0px; padding-left: 30px"></i>Masuk</a>
->>>>>>> 0378d1333e043d7c1e7f9d4c9571af03c9a1ac4b
 									<?php
 								}else{
 									if($this->session->userdata('id_jabatan')=='1'){
@@ -41,14 +38,8 @@
 										$jabatan = 'pelanggan';
 									}
 									?>
-<<<<<<< HEAD
 									<a href="<?php echo base_url ('');echo $jabatan ?>/profil" data-toggle="modal"><i class="flaticon-profile" style="margin: 0px 10px 0px; padding-left: 30px"></i>Profil </a>
 									<a href="<?php echo base_url ('auth/logout') ?> "><i class="flaticon-logout" style="margin: 0px 10px 0px; padding-left: 30px"></i>Logout</a>
-=======
-									<a href="<?php echo base_url ('pelanggan/profil') ?> " data-toggle="modal"><i class="flaticon-profile" style="margin: 0px 10px 0px; padding-left: 30px"></i>Profil</a>
-									<a href="<?php echo base_url ('auth/logout') ?>"><i class="flaticon-logout" style="margin: 0px 10px 0px; padding-left: 30px"></i>Logout</a>
->>>>>>> 0378d1333e043d7c1e7f9d4c9571af03c9a1ac4b
-									<!-- <?php //echo base_url($jabatan) ?>/ -->
 									<?php
 								}
 								?>

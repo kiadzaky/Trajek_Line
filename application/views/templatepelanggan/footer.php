@@ -7,8 +7,16 @@
 			<div class="row" style="justify-content: center;">
 				<div class="col-lg-5">
 					<div class="footer-widget about-widget">
-						<h2>About</h2>
-						<p>Trajek Line merupakan tempat penyewaan barang terlengkap yang berdomisil di Jember. Apapun yang anda cari bisa anda temukan disini!</p>
+						<h2>Alamat</h2>
+						<p>KANTOR JEMBER
+
+ALAMAT MARKAS &  DIRUT PT. TRAJEK GROUP
+
+Perum Greendland semeru E9, Gang S.Parman 10 (masuk gang larisa, sebelum CPM dari barat)</p>
+
+<p>ALAMAT KANTOR PEMBANTU
+
+Perum gunung batu blok ee 43 JEMBER (samping edamame sebelah kiri masuk, nanti ada pertigaan sebelah kiri)</p>
 						<img src="<?php echo base_url() ?>/assets1/img/cards.png" alt="" style="margin-top: 2px">
 					</div>
 				</div>

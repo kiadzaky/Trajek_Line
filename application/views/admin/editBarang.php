@@ -54,11 +54,6 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label for="kapasitas">Kapasitas</label>
-                                <input type="text" class="form-control" id="kapasitas" name="kapasitas" value="<?= $barang->kapasitas; ?>">
-                                <?= form_error('kapasitas', '<small class="text-danger pl-3">', '</small>'); ?>
-                            </div>
-                            <div class="form-group">
                                 <label for="tahun">Tahun</label>
                                 <input type="text" class="form-control" id="tahun" name="tahun" value="<?= $barang->tahun; ?>">
                                 <?= form_error('tahun', '<small class="text-danger pl-3">', '</small>'); ?>

@@ -297,7 +297,6 @@ class Admin extends CI_Controller
         $this->db->set('nopol', $nopol);
         $this->db->set('merk', $merk);
         $this->db->set('jenis', $jenis);
-        $this->db->set('kapasitas', $kapasitas);
         $this->db->set('tahun', $tahun);
         $this->db->set('warna', $warna);
         $this->db->set('harga', $harga);

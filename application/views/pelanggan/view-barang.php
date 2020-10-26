@@ -42,7 +42,6 @@
                     </div>
                 </div>
                 <div class="col-lg-6 product-details">
-<<<<<<< HEAD
                     <form action="<?php echo base_url('index/pesan') ?>" method="post">
                         <h2 class="p-title"><?= $b['merk'] ?></h2><input type="hidden" name="merk" value="<?= $b['merk'] ?>">
                         <h3 class="p-price">Rp. <?= $b['harga'] ?> / jam</h3><input type="hidden" name="harga" value="<?= $b['harga'] ?>"><input type="hidden" name="gambar" value="<?= $b['gambar'] ?>">
@@ -50,13 +49,11 @@
                         <h4 class="p-stock">Available: <span>In Stock</span></h4>
                         <div class="form-group" style="margin-bottom: 20px; ">
                                         <label style="font-size: 18px">Pilih Tanggal Sewa</label><br>
-                                            <input type="date" name="tanggal_pengambilan" value="tanggal_sewa" class="col-lg-5 form-control form-control-line" style="margin-left: 20px">
+                                            <input type="date" name="tanggal_pengambilan" value="tanggal_sewa" class="col-lg-5 form-control form-control-line" style="margin-left: 20px" required="">
                         </div>
                         <?php if ($this->session->userdata('email') != null) {
                             ?>
                             <input type="hidden" name="kodebarang" value="<?= $b['id_barang'] ?>">
-                            <button class="site-btn">PESAN SEKARANG</button>
-=======
                     <form action="<?php echo base_url('index/cart')?>" method="post">
                     <h2 class="p-title"><?= $b['merk'] ?></h2><input type="hidden" name="merk" value="<?= $b['merk'] ?>" >
                     <h3 class="p-price">Rp. <?= $b['harga'] ?> / jam</h3><input type="hidden" name="harga" value="<?= $b['harga'] ?>" ><input type="hidden" name="gambar" value="<?= $b['gambar'] ?>">
@@ -76,7 +73,6 @@
                         ?>
                             <input type="hidden" name="kodebarang" value="<?= $b['id_barang'] ?>">
                         <button class="site-btn">PESAN SEKARANG</button>
->>>>>>> 0378d1333e043d7c1e7f9d4c9571af03c9a1ac4b
                         </form>
                     <?php
                     } else {
@@ -151,4 +147,4 @@
     </body>
 
     </html>
-<?php } ?>
+<?php }} ?>

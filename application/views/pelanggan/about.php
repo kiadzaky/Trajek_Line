@@ -32,23 +32,53 @@
 			
 			
                     <!-- Column -->
-                    <div class="col-lg-10">
+                    <div class="col-lg-8">
                         <div class="card" style="; border-radius: 27px;
-                        overflow: hidden;"">
+                        overflow: hidden;">
                             <div class="card-body">
-                                <p style="text-align: justify; margin: 0px 20px">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                <p>TRAJEK yakni sebutan dari perusahaan adikuasa jember, CV. Trajekline Indonesia. Di ayomi oleh perusahaan besar Yakni TRAJEK GROUP...
+
+Perusahaan TRAJEK GROUP berdiri di Kota Jember pada Maret 2017.
+
+Gunakan @trajeklinejember sebagai usaha jasa  Dan gunakan layanan kami untuk kebutuhan anda....Buktikan di @trajeklinejember !!!😊
+
+Transportasi, Edukasi, Tour Travel, Rental Motor-Mobil Pribadi, Nikah, Pejabat, Latihan Mengemudi, Event, Wedding, Tour Organizer, Pindahan Pick up/ tossa/ Truk, Sewa DSLR, LCD PROYEKTOR, HT, Ojek, Taxi, Food, .
+Ingat Apapun, Ingat Trajekline
+.
+Organized By TRAJEK GROUP
+Official Account CV. TRAJEKLINE INDONESIA (TRAJEK)
+.
+<p>
+	KANTOR JEMBER
+
+ALAMAT MARKAS &  DIRUT PT. TRAJEK GROUP
+
+Perum Greendland semeru E9, Gang S.Parman 10 (masuk gang larisa, sebelum CPM dari barat)</p>
+
+<p>ALAMAT KANTOR PEMBANTU
+
+Perum gunung batu blok ee 43 JEMBER (samping edamame sebelah kiri masuk, nanti ada pertigaan sebelah kiri)
+</p>
+<p>
+Follow : @trajeklinejember 
+WA : 083847562830
+Telp Kantor : 0331- 5543749
+</p>
+<p>Visit Youtube : https://m.youtube.com/channel/UCz_4MF9CwTfB1CBCNxOy8BQ (trajekline jember)</p>
+
+<p>Let's Go For Jember, Remember everything, Remember TRAJEK</p>
 </p>
                             </div>
+                            
                         </div>
                     </div>
                     <!-- Column -->
-                    <div class="col-lg-2" style="margin-bottom: : 50px">
+                    <div class="col-lg-4" style="margin-bottom: : 50px">
                         <div class="card" style=
                         "border-radius: 27px;
                         overflow: hidden;">
                             <div class="card-body">
-                                <center> <img src="<?php echo base_url() ?>/assets1/img/logotrajek.png"/>
+                                <center> <img src="<?php echo base_url() ?>/assets1/img/trajeklogo.jpeg"/>
                                 	
                                 	<div class="row text-center justify-content-md-center" > 
                                         </div>

@@ -142,11 +142,6 @@
 							</div>
 						</div>
 						<?php } ?>
-						
-<<<<<<< HEAD
-=======
-
->>>>>>> 0378d1333e043d7c1e7f9d4c9571af03c9a1ac4b
 						<div class="text-center w-100 pt-3">
 							<button class="site-btn sb-line sb-dark">LOAD MORE</button>
 						</div>
